@@ -1,7 +1,7 @@
 ### 01-Reshape.R
 # install.packages("reshape2")
 # library(reshape2)
-
+#adding a comment for homework 1 q.12.5
 ## Tidy data
 
 # Values in column names 
